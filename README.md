@@ -15,7 +15,7 @@ Works with **JPEG** and **BMP** images.
 
 There's nothing to install.
 
-1. Download **Imposter Bits.exe**
+1. [Download **Imposter Bits.exe**](https://github.com/jihadsnasr/Imposter-Bits/raw/main/Imposter%20Bits.exe)
 2. Double-click it
 
 The first time you open it, it sets itself up in a few seconds. After that it starts instantly.
